@@ -1,0 +1,45 @@
+_repo: The-Practice-of-the-Presence-of-God-the-Best-Rule-of-a-Holy-Life_13871
+_version: 0.1.0
+alternative_title: Pratique de la présence de Dieu. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lawrence, of the Resurrection, Brother
+    aliases:
+    - Lawrence, Brother
+    - Laurent, de la Resurrection, frere
+    - Herman, Nicholas
+    - Laurent, de la Résurrection, frère
+    - Herman, Nicolas
+    birthdate: 1611
+    deathdate: 1691
+    gutenberg_agent_id: '1832'
+    url: http://www.gutenberg.org/2009/agents/1832
+    wikipedia: http://en.wikipedia.org/wiki/Brother_Lawrence
+description: "The Practice of the Presence of God is a book of collected teachings\
+  \ of Brother Lawrence (born Nicholas Herman), a 17th-century Carmelite monk, compiled\
+  \ by Father Joseph de Beaufort. The compilation includes letters, as well as records\
+  \ of his conversations kept by Brother Lawrence's interlocutors. The basic theme\
+  \ of the book is the development of an awareness of the presence of God.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13871'
+  wikidata: Q7757999
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Spiritual life -- Catholic Church'
+- !lcsh 'Christian life -- Catholic authors'
+title: The Practice of the Presence of God the Best Rule of a Holy Life
+url: http://www.gutenberg.org/ebooks/13871
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Practice_of_the_Presence_of_God
+- https://zh.wikipedia.org/wiki/%E4%B8%8E%E7%A5%9E%E5%90%8C%E5%9C%A8
