@@ -24,6 +24,8 @@ description: "The Practice of the Presence of God is a book of collected teachin
   \ of his conversations kept by Brother Lawrence's interlocutors. The basic theme\
   \ of the book is the development of an awareness of the presence of God.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13871#The-Practice-of-the-Presence-of-God-the-Best-Rule-of-a-Holy-Life
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2004-10-26'
 gutenberg_type: Text
